@@ -32,7 +32,7 @@ To use these endpoints, include your TMDb API key in the `script.js` file.
 2. Explore the different categories of content displayed on the page.
 
 ## Live Demo
-View the live demo of this project here: [Netflix Homepage Clone](https://yassenali.github.io/Homepage-of-Netflix/)
+View the live demo of this project here: [Netflix Homepage](https://yassenali.github.io/Homepage-of-Netflix/)
 
 ## Acknowledgments
 - Thanks to [The Movie Database (TMDb)](https://www.themoviedb.org/) for providing the API used in this project.
