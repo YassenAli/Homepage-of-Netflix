@@ -1,6 +1,6 @@
 # Homepage-of-Netflix
 
-![Homepage Of Netflix]()
+![Homepage Of Netflix](https://github.com/YassenAli/Homepage-of-Netflix/blob/main/HomepageOfNetflix.png)
 
 ## Description
 This project is a clone of the Netflix homepage, featuring a dynamic interface that showcases various movies and series, including Netflix Originals, trending content, and top-rated selections.
